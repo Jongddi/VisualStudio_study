@@ -6,7 +6,8 @@ namespace test
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Hello Github!");
+			Console.WriteLine("깃 허브 연동 테스트 파일");
 		}
 	}
 }
